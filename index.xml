@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EllinaKuznetcova</title>
-    <link>https://ellinakuznetcova.gitlab.io/index.xml</link>
-    <description>Recent content on EllinaKuznetcova</description>
+    <title>Ellina Kuznetcova</title>
+    <link>https://ellinakuznetcova.github.io/</link>
+    <description>Recent content on Ellina Kuznetcova</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://ellinakuznetcova.gitlab.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ellinakuznetcova.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
